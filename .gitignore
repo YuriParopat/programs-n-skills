@@ -1,7 +1,12 @@
 *.docx
 *.doc
+*.bin
+*.cbp
+*.exe
+
 
 quatro/
-
+tree/
 
 Redes neurais/
+
