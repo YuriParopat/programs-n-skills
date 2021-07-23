@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1505940246 source:c:\users\aula\desktop\vetormatriz\main.c
-	<stdio.h>
-	<stdlib.h>
-	<locale.h>
-
