@@ -31,9 +31,9 @@ Excellent for practicing and improving the performance of your programs
 	<li> <h5 >Fork</h5></li>
 	<li> <h5 >Hash Table</h5></li>
 	<li> <h5 >Maloc</h5></li>
+	<li> <h5 >Matrix and Vector</h5></li>
 	<li> <h5 >Recursion</h5></li>
 	<li> <h5 >Search tree</h5></li>
 	<li> <h5 >Sort</h5></li>
 	<li> <h5 >Stack, queue and list</h5></li>
-	
 </ul> 
